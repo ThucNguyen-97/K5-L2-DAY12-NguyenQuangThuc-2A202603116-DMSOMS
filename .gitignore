@@ -6,6 +6,7 @@ G[0-9][0-9]/
 *.mp4
 part_*.zip
 peer_*.zip
+G[0-9][0-9].zip
 ir_pairs/
 __pycache__/
 *.pyc

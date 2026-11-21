@@ -1,0 +1,5 @@
+frame_id,source,phenomenon,affected_field,effect_on_label
+S01,IR_sim,"Mất thông tin màu; hình dạng em bé, nôi và túi vẫn còn nhìn thấy",object.type/infant_seat,"Dựa vào hình dạng và vị trí, không suy type từ màu"
+S05,IR_sim,"Vùng sáng/tối và texture thay đổi mạnh giữa RGB và IR-sim",object.type/seat,"Giữ nhãn theo hình dạng/ngữ cảnh; không dùng màu"
+D03,real_IR,"Ảnh NIR đơn sắc làm mất màu áo và vật đang cầm",phone/hand,"Chỉ gán phone khi còn thấy rõ hình dạng máy"
+D04,real_IR,"Vật sáng gần vùng tay/mặt tạo vùng phản xạ và che một phần chi tiết",eye_left/face13,"Dùng unknown và occluded/outside khi không xác định chắc"
